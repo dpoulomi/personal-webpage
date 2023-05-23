@@ -1,19 +1,28 @@
 .table {
     border:1px solid black;
+    cursor: pointer;
+   
   }
 
   .th {
     border:1px solid black;
+    cursor: pointer;
   }
 
   .td {
     border:1px solid black;
+    cursor: pointer;
   }
 
   th, td {
     border: 1px solid black;
+    cursor: pointer;
   }
   
   thead th {
+    /* background-color: #1c87c9;
+    color: #ffffff; */
+    /* font: bold;
+    color: red; */
     width: 25%;
   }
